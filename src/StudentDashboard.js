@@ -477,7 +477,7 @@ const StudentDashboard = () => {
       <nav className="bg-white shadow-sm border-b px-4 py-3">
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <h1 className="text-xl font-bold text-blue-600">EduSync Pro</h1>
+            <h1 className="text-xl font-bold text-blue-600">Acadus</h1>
             <span className="text-gray-400">|</span>
             <span className="text-gray-600">Student Portal</span>
           </div>
